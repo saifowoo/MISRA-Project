@@ -52,6 +52,9 @@ Type name: BasicRet
 Type Description: Basic Return type
 Type Range: OK,NOK
 */
+
+typedef signed long int s32;
+
 typedef enum { OK,NOK } BasicRet;
 
 /*
