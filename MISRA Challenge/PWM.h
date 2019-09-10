@@ -14,5 +14,5 @@ void PWM_SetSpeed(u8 SpeedPercent);
 
 
 
-
-#endif /* PWM_H_ */
+/* PWM_H_ */
+#endif

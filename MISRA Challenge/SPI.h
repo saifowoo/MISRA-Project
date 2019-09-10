@@ -15,5 +15,5 @@ u8 SPI_u8TransfereByte(u8 u8Byte);
 
 
 
-
-#endif /* SPI_H_ */
+/* SPI_H_ */
+#endif
