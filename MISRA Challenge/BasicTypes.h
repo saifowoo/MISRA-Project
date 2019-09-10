@@ -10,11 +10,12 @@
 #define BASICTYPES_H_
 
 #define F_CPU 8000000ul
+/*
 typedef unsigned char u8;
 typedef unsigned short int u16;
 typedef unsigned long int u32;
+*/
 
 
-
-
-#endif /* BASICTYPES_H_ */
+/* BASICTYPES_H_ */
+#endif
