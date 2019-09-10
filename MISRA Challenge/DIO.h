@@ -13,10 +13,10 @@
 #include "Basic_Types.h"
 
 
-#define PA 0x00
-#define PB 0x01
-#define PC 0x02
-#define PD 0x03
+#define PA (0x00u)
+#define PB (0x01u)
+#define PC (0x02u)
+#define PD (0x03u)
 
 void DIO_InitPortDirection(u8 PortName,u8 PortDirection,u8 PortMask);
 void DIO_WritePort(u8 PortName,u8 PortData,u8 PortMask);
